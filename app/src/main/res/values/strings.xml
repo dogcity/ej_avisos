@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Avisos</string>
     <string name="action_settings">Settings</string>
+    <string name="validar_patente">Válidar Patente</string>
+    <string name="inspeccionar">Inspeccionar</string>
+    <string name="salir">Salir</string>
 </resources>
