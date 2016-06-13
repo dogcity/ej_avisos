@@ -43,7 +43,7 @@ public class AvisosActivity extends AppCompatActivity {
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
-        switch (item.getItemId()){
+        switch (item.getItemId()) {
             case R.id.action_patente:
                 //capturar patente
                 Log.d(getLocalClassName(), "Capturar Patente");
@@ -58,4 +58,5 @@ public class AvisosActivity extends AppCompatActivity {
             default:
                 return false;
         }
+    }
 }
